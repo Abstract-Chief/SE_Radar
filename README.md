@@ -2,7 +2,7 @@
 # Radar System in Space Engineers
 This project demonstrates the operation of a radar system using the Space Engineers physics engine. The radar system is designed to manage multiple radar installations, where each radar locks onto a specific target and tracks its movement by continuously updating its current coordinates.
 
-# Features Complited
+# Features - Complited
 Multiple Radar Management: The system can handle multiple radar installations simultaneously.
 
 Target Locking: Each radar can lock onto a specific target.
